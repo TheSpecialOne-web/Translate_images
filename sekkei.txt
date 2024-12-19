@@ -1,0 +1,64 @@
+基本設計 (Basic Design)
+1. Project Objective
+Description: 
+The goal of this project is to extract Japanese text from images, translate it into English, 
+and then replace the original text with the translated text while preserving the layout and design of the image.
+
+2. Functional Requirements
+Text Extraction:
+Use EasyOCR to extract Japanese and English text from images.
+
+Translation:
+Use the Google Translate API to translate the extracted text from Japanese to English.
+Image Modification:
+
+Remove the Japanese text from the original image.
+Add the translated text while maintaining the appropriate position and size.
+
+User Interface:
+Allow the user to upload images and display the result after translation.
+
+3. System Architecture
+Main Components:
+Text Extraction Module:
+
+Input: Image with Japanese text.
+Output: Japanese and English text, with position coordinates.
+Translation Module:
+
+Input: Japanese text.
+Output: English text.
+Image Processing Module:
+
+Input: Original image and translated text with coordinates.
+Output: Modified image with the translated text.
+
+User Interface:
+Allow image uploads and display processed images.
+4. Technologies and Tools
+Language: Python
+Libraries:
+EasyOCR (for text extraction)
+Google Translate API (for translation)
+Pillow (for image manipulation)
+Tkinter (for the user interface)
+5. Workflow
+Image Upload:
+
+The user uploads an image via the user interface.
+Text Extraction:
+
+Use EasyOCR to extract Japanese and English text.
+Translation:
+
+Use the Google Translate API to translate Japanese text into English.
+Image Modification:
+
+Remove the Japanese text from the original image.
+Add the translated text to the image while preserving formatting (position and size).
+Result Display:
+
+The modified image is displayed to the user.
+6. Conclusion
+This document provides a detailed overview of the basic design of the system, outlining the objectives, functional requirements, architecture, technologies used, and workflow.
+The next steps will include development, testing, and optimization of the system to ensure accurate and efficient translation.

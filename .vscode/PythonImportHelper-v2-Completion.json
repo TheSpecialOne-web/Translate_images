@@ -1,0 +1,737 @@
+[
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "argparse",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "argparse",
+        "description": "argparse",
+        "detail": "argparse",
+        "documentation": {}
+    },
+    {
+        "label": "pformat",
+        "importPath": "pprint",
+        "description": "pprint",
+        "isExtraImport": true,
+        "detail": "pprint",
+        "documentation": {}
+    },
+    {
+        "label": "jmespath",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "jmespath",
+        "description": "jmespath",
+        "detail": "jmespath",
+        "documentation": {}
+    },
+    {
+        "label": "exceptions",
+        "importPath": "jmespath",
+        "description": "jmespath",
+        "isExtraImport": true,
+        "detail": "jmespath",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "ImageDraw",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "ImageFont",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "ImageDraw",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "ImageFont",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "ImageDraw",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "ImageFont",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "easyocr",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "easyocr",
+        "description": "easyocr",
+        "detail": "easyocr",
+        "documentation": {}
+    },
+    {
+        "label": "GoogleTranslator",
+        "importPath": "deep_translator",
+        "description": "deep_translator",
+        "isExtraImport": true,
+        "detail": "deep_translator",
+        "documentation": {}
+    },
+    {
+        "label": "GoogleTranslator",
+        "importPath": "deep_translator",
+        "description": "deep_translator",
+        "isExtraImport": true,
+        "detail": "deep_translator",
+        "documentation": {}
+    },
+    {
+        "label": "GoogleTranslator",
+        "importPath": "deep_translator",
+        "description": "deep_translator",
+        "isExtraImport": true,
+        "detail": "deep_translator",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "tkinter",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "simpledialog",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "font",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "simpledialog",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "font",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "imenv.Scripts.jp",
+        "description": "imenv.Scripts.jp",
+        "peekOfCode": "def main():\n    parser = argparse.ArgumentParser()\n    parser.add_argument('expression')\n    parser.add_argument('-f', '--filename',\n                        help=('The filename containing the input data.  '\n                              'If a filename is not given then data is '\n                              'read from stdin.'))\n    parser.add_argument('--ast', action='store_true',\n                        help=('Pretty print the AST, do not search the data.'))\n    args = parser.parse_args()",
+        "detail": "imenv.Scripts.jp",
+        "documentation": {}
+    },
+    {
+        "label": "contains_japanese",
+        "kind": 2,
+        "importPath": "auto_translate",
+        "description": "auto_translate",
+        "peekOfCode": "def contains_japanese(text):\n    return bool(re.search(r'[\\u3040-\\u309F\\u30A0-\\u30FF\\u4E00-\\u9FFF]', text))\ndef extract_text_from_image(image_path):\n    reader = easyocr.Reader(['ja', 'en'])\n    # Load the image and convert to RGB\n    image = Image.open(image_path).convert('RGB')\n    # Convert PIL image to numpy array\n    image_np = np.array(image)\n    # Pass numpy array to easyocr\n    results = reader.readtext(image_np, detail=1, paragraph=False)",
+        "detail": "auto_translate",
+        "documentation": {}
+    },
+    {
+        "label": "extract_text_from_image",
+        "kind": 2,
+        "importPath": "auto_translate",
+        "description": "auto_translate",
+        "peekOfCode": "def extract_text_from_image(image_path):\n    reader = easyocr.Reader(['ja', 'en'])\n    # Load the image and convert to RGB\n    image = Image.open(image_path).convert('RGB')\n    # Convert PIL image to numpy array\n    image_np = np.array(image)\n    # Pass numpy array to easyocr\n    results = reader.readtext(image_np, detail=1, paragraph=False)\n    text_and_boxes = [(result[1], result[0]) for result in results]\n    return text_and_boxes",
+        "detail": "auto_translate",
+        "documentation": {}
+    },
+    {
+        "label": "translate_text",
+        "kind": 2,
+        "importPath": "auto_translate",
+        "description": "auto_translate",
+        "peekOfCode": "def translate_text(text, src_lang='ja', dest_lang='en'):\n    translator = GoogleTranslator(source=src_lang, target=dest_lang)\n    try:\n        return translator.translate(text)\n    except Exception as e:\n        print(f\"Translation error: {e}\")\n        return text\ndef get_background_color(image, box):\n    box = [(int(coord[0]), int(coord[1])) for coord in box]\n    x1, y1 = box[0]",
+        "detail": "auto_translate",
+        "documentation": {}
+    },
+    {
+        "label": "get_background_color",
+        "kind": 2,
+        "importPath": "auto_translate",
+        "description": "auto_translate",
+        "peekOfCode": "def get_background_color(image, box):\n    box = [(int(coord[0]), int(coord[1])) for coord in box]\n    x1, y1 = box[0]\n    x2, y2 = box[2]\n    extension = 10\n    x1, y1 = max(0, x1 - extension), max(0, y1 - extension)\n    x2, y2 = min(image.width, x2 + extension), min(image.height, y2 + extension)\n    pixels = [image.getpixel((x, y)) for x in range(x1, x2) for y in range(y1, y2)]\n    pixel_counts = {}\n    for color in pixels:",
+        "detail": "auto_translate",
+        "documentation": {}
+    },
+    {
+        "label": "erase_text",
+        "kind": 2,
+        "importPath": "auto_translate",
+        "description": "auto_translate",
+        "peekOfCode": "def erase_text(image, bounding_boxes):\n    draw = ImageDraw.Draw(image)\n    for box in bounding_boxes:\n        if isinstance(box, list):\n            box = [tuple(point) for point in box]\n        bg_color = get_background_color(image, box)\n        draw.polygon(box, fill=bg_color)\n    return image\ndef fill_color_spots(image):\n    image = image.convert(\"RGB\")",
+        "detail": "auto_translate",
+        "documentation": {}
+    },
+    {
+        "label": "fill_color_spots",
+        "kind": 2,
+        "importPath": "auto_translate",
+        "description": "auto_translate",
+        "peekOfCode": "def fill_color_spots(image):\n    image = image.convert(\"RGB\")\n    width, height = image.size\n    pixels = image.load()\n    color_counts = {}\n    for y in range(height):\n        for x in range(width):\n            color = pixels[x, y]\n            if color not in color_counts:\n                color_counts[color] = 0",
+        "detail": "auto_translate",
+        "documentation": {}
+    },
+    {
+        "label": "clean_translated_text",
+        "kind": 2,
+        "importPath": "auto_translate",
+        "description": "auto_translate",
+        "peekOfCode": "def clean_translated_text(special_chars, translated_text):\n    if len(special_chars) == 2:\n        return f\"{special_chars[0]}{translated_text}{special_chars[1]}\".strip()\n    return translated_text.strip()\ndef estimate_font_size(box, text):\n    x1, y1 = box[0]\n    x2, y2 = box[2]\n    box_height = y2 - y1\n    base_font_size = max(int(box_height * 0.8), 8)\n    font_path = \"C:/Windows/Fonts/arial.ttf\"",
+        "detail": "auto_translate",
+        "documentation": {}
+    },
+    {
+        "label": "estimate_font_size",
+        "kind": 2,
+        "importPath": "auto_translate",
+        "description": "auto_translate",
+        "peekOfCode": "def estimate_font_size(box, text):\n    x1, y1 = box[0]\n    x2, y2 = box[2]\n    box_height = y2 - y1\n    base_font_size = max(int(box_height * 0.8), 8)\n    font_path = \"C:/Windows/Fonts/arial.ttf\"\n    font_size = base_font_size\n    try:\n        font = ImageFont.truetype(font_path, font_size)\n    except OSError:",
+        "detail": "auto_translate",
+        "documentation": {}
+    },
+    {
+        "label": "adjust_text_color",
+        "kind": 2,
+        "importPath": "auto_translate",
+        "description": "auto_translate",
+        "peekOfCode": "def adjust_text_color(bg_color):\n    r, g, b = bg_color\n    if (r*0.299 + g*0.587 + b*0.114) < 128:\n        return (255, 255, 255)\n    return (0, 0, 0)\ndef add_text_outline(draw, text, position, font, color, outline_color, outline_width=2):\n    x, y = position\n    for offset in range(-outline_width, outline_width + 1):\n        draw.text((x + offset, y), text, font=font, fill=outline_color)\n        draw.text((x, y + offset), text, font=font, fill=outline_color)",
+        "detail": "auto_translate",
+        "documentation": {}
+    },
+    {
+        "label": "add_text_outline",
+        "kind": 2,
+        "importPath": "auto_translate",
+        "description": "auto_translate",
+        "peekOfCode": "def add_text_outline(draw, text, position, font, color, outline_color, outline_width=2):\n    x, y = position\n    for offset in range(-outline_width, outline_width + 1):\n        draw.text((x + offset, y), text, font=font, fill=outline_color)\n        draw.text((x, y + offset), text, font=font, fill=outline_color)\n        draw.text((x + offset, y + offset), text, font=font, fill=outline_color)\n        draw.text((x + offset, y - offset), text, font=font, fill=outline_color)\n        draw.text((x - offset, y + offset), text, font=font, fill=outline_color)\n    draw.text((x, y), text, font=font, fill=color)\ndef process_images(input_image_path, output_image_path):",
+        "detail": "auto_translate",
+        "documentation": {}
+    },
+    {
+        "label": "process_images",
+        "kind": 2,
+        "importPath": "auto_translate",
+        "description": "auto_translate",
+        "peekOfCode": "def process_images(input_image_path, output_image_path):\n    if not os.path.isfile(input_image_path):\n        raise FileNotFoundError(f\"The file {input_image_path} does not exist.\")\n    image = Image.open(input_image_path).convert(\"RGB\")\n    text_and_boxes = extract_text_from_image(input_image_path)\n    japanese_boxes = [box for (text, box) in text_and_boxes if contains_japanese(text)]\n    print(\"Textes extraits et leurs boîtes de délimitation :\")\n    for text, box in text_and_boxes:\n        print(f\"Texte : {text} | Boîte : {box}\")\n    image = erase_text(image, japanese_boxes)",
+        "detail": "auto_translate",
+        "documentation": {}
+    },
+    {
+        "label": "input_directory",
+        "kind": 5,
+        "importPath": "auto_translate",
+        "description": "auto_translate",
+        "peekOfCode": "input_directory = Path('data_jp')\noutput_directory = Path('data_en')\n# Ensure the output directory exists\noutput_directory.mkdir(exist_ok=True)\n# Process each image file in the input directory\nfor subdir, _, files in os.walk(input_directory):\n    for file in files:\n        if file.lower().endswith(('.png', '.jpg', '.jpeg')):\n            input_image_path = Path(subdir) / file\n            output_subdir = output_directory / Path(subdir).relative_to(input_directory)",
+        "detail": "auto_translate",
+        "documentation": {}
+    },
+    {
+        "label": "output_directory",
+        "kind": 5,
+        "importPath": "auto_translate",
+        "description": "auto_translate",
+        "peekOfCode": "output_directory = Path('data_en')\n# Ensure the output directory exists\noutput_directory.mkdir(exist_ok=True)\n# Process each image file in the input directory\nfor subdir, _, files in os.walk(input_directory):\n    for file in files:\n        if file.lower().endswith(('.png', '.jpg', '.jpeg')):\n            input_image_path = Path(subdir) / file\n            output_subdir = output_directory / Path(subdir).relative_to(input_directory)\n            output_subdir.mkdir(parents=True, exist_ok=True)",
+        "detail": "auto_translate",
+        "documentation": {}
+    },
+    {
+        "label": "load_corrections",
+        "kind": 2,
+        "importPath": "manual_correction",
+        "description": "manual_correction",
+        "peekOfCode": "def load_corrections():\n    if os.path.exists(CORRECTIONS_FILE):\n        with open(CORRECTIONS_FILE, \"r\", encoding=\"utf-8\") as f:\n            return json.load(f)  # Retourne le contenu du fichier JSON\n    return {}  # Retourne un dictionnaire vide si le fichier n'existe pas\n# Sauvegarder les corrections dans un fichier JSON sans écraser les anciennes\ndef save_corrections(new_corrections):\n    # Charger les anciennes corrections\n    corrections = load_corrections()\n    # Ajouter/mettre à jour avec les nouvelles corrections",
+        "detail": "manual_correction",
+        "documentation": {}
+    },
+    {
+        "label": "save_corrections",
+        "kind": 2,
+        "importPath": "manual_correction",
+        "description": "manual_correction",
+        "peekOfCode": "def save_corrections(new_corrections):\n    # Charger les anciennes corrections\n    corrections = load_corrections()\n    # Ajouter/mettre à jour avec les nouvelles corrections\n    corrections.update(new_corrections)\n    # Sauvegarder le tout dans le fichier\n    with open(CORRECTIONS_FILE, \"w\", encoding=\"utf-8\") as f:\n        json.dump(corrections, f, ensure_ascii=False, indent=4)\n# Charger les corrections au début du programme\ncorrections_dict = load_corrections()",
+        "detail": "manual_correction",
+        "documentation": {}
+    },
+    {
+        "label": "contains_japanese",
+        "kind": 2,
+        "importPath": "manual_correction",
+        "description": "manual_correction",
+        "peekOfCode": "def contains_japanese(text):\n    return bool(\n        re.search(r\"[\\u3040-\\u309F\\u30A0-\\u30FF\\u4E00-\\u9FFF]\", text)\n    )  # Retourne True si des caractères japonais sont trouvés\n# Fonction pour extraire le texte et les zones de texte d'une image\ndef extract_text_from_image(image_path):\n    reader = easyocr.Reader(\n        [\"ja\", \"en\"]\n    )  # Initialiser le lecteur EasyOCR pour le japonais et l'anglais\n    image = Image.open(image_path).convert(",
+        "detail": "manual_correction",
+        "documentation": {}
+    },
+    {
+        "label": "extract_text_from_image",
+        "kind": 2,
+        "importPath": "manual_correction",
+        "description": "manual_correction",
+        "peekOfCode": "def extract_text_from_image(image_path):\n    reader = easyocr.Reader(\n        [\"ja\", \"en\"]\n    )  # Initialiser le lecteur EasyOCR pour le japonais et l'anglais\n    image = Image.open(image_path).convert(\n        \"RGB\"\n    )  # Ouvrir l'image et la convertir en RGB\n    image_np = np.array(image)  # Convertir l'image en tableau numpy\n    results = reader.readtext(\n        image_np, detail=1, paragraph=False",
+        "detail": "manual_correction",
+        "documentation": {}
+    },
+    {
+        "label": "translate_text",
+        "kind": 2,
+        "importPath": "manual_correction",
+        "description": "manual_correction",
+        "peekOfCode": "def translate_text(text, src_lang=\"ja\", dest_lang=\"en\"):\n    # Si le texte a déjà été corrigé, retourner la traduction corrigée\n    if text in corrections_dict:\n        print(f\"Using learned correction for: {text}\")  # Utiliser la correction apprise\n        return corrections_dict[text]\n    translator = GoogleTranslator(\n        source=src_lang, target=dest_lang\n    )  # Initialiser le traducteur\n    try:\n        return translator.translate(text)  # Traduire le texte",
+        "detail": "manual_correction",
+        "documentation": {}
+    },
+    {
+        "label": "get_background_color",
+        "kind": 2,
+        "importPath": "manual_correction",
+        "description": "manual_correction",
+        "peekOfCode": "def get_background_color(image, box):\n    box = [\n        (int(coord[0]), int(coord[1])) for coord in box\n    ]  # Convertir les coordonnées en entiers\n    x1, y1 = box[0]  # Coin supérieur gauche\n    x2, y2 = box[2]  # Coin inférieur droit\n    extension = 10  # Extension pour le remplissage de couleur\n    x1, y1 = max(0, x1 - extension), max(\n        0, y1 - extension\n    )  # Limiter les coordonnées à l'image",
+        "detail": "manual_correction",
+        "documentation": {}
+    },
+    {
+        "label": "erase_text",
+        "kind": 2,
+        "importPath": "manual_correction",
+        "description": "manual_correction",
+        "peekOfCode": "def erase_text(image, bounding_boxes):\n    draw = ImageDraw.Draw(image)  # Créer un objet de dessin pour l'image\n    for box in bounding_boxes:\n        if isinstance(box, list):\n            box = [tuple(point) for point in box]  # Convertir les coordonnées en tuples\n        bg_color = get_background_color(image, box)  # Obtenir la couleur de fond\n        draw.polygon(box, fill=bg_color)  # Dessiner un polygone avec la couleur de fond\n    return image  # Retourner l'image modifiée\n# Fonction pour ajuster la taille de la police en fonction de la boîte\ndef estimate_font_size(box, text):",
+        "detail": "manual_correction",
+        "documentation": {}
+    },
+    {
+        "label": "estimate_font_size",
+        "kind": 2,
+        "importPath": "manual_correction",
+        "description": "manual_correction",
+        "peekOfCode": "def estimate_font_size(box, text):\n    x1, y1 = box[0]  # Coin supérieur gauche\n    x2, y2 = box[2]  # Coin inférieur droit\n    box_height = y2 - y1  # Calculer la hauteur de la boîte\n    base_font_size = max(\n        int(box_height * 0.8), 8\n    )  # Déterminer la taille de police de base\n    font_path = \"C:/Windows/Fonts/arial.ttf\"  # Chemin vers la police\n    font_size = base_font_size\n    try:",
+        "detail": "manual_correction",
+        "documentation": {}
+    },
+    {
+        "label": "adjust_text_color",
+        "kind": 2,
+        "importPath": "manual_correction",
+        "description": "manual_correction",
+        "peekOfCode": "def adjust_text_color(bg_color):\n    r, g, b = bg_color  # Décomposer la couleur de fond en ses composants RGB\n    if (r * 0.299 + g * 0.587 + b * 0.114) < 128:  # Calculer la luminosité\n        return (255, 255, 255)  # Retourner du blanc si le fond est sombre\n    return (0, 0, 0)  # Retourner du noir sinon\n# Fonction pour ajouter un contour au texte\ndef add_text_outline(draw, text, position, font, color, outline_color, outline_width=2):\n    x, y = position  # Position du texte\n    # Dessiner le contour autour du texte\n    for offset in range(-outline_width, outline_width + 1):",
+        "detail": "manual_correction",
+        "documentation": {}
+    },
+    {
+        "label": "add_text_outline",
+        "kind": 2,
+        "importPath": "manual_correction",
+        "description": "manual_correction",
+        "peekOfCode": "def add_text_outline(draw, text, position, font, color, outline_color, outline_width=2):\n    x, y = position  # Position du texte\n    # Dessiner le contour autour du texte\n    for offset in range(-outline_width, outline_width + 1):\n        draw.text(\n            (x + offset, y), text, font=font, fill=outline_color\n        )  # Dessiner en haut et en bas\n        draw.text(\n            (x, y + offset), text, font=font, fill=outline_color\n        )  # Dessiner à gauche et à droite",
+        "detail": "manual_correction",
+        "documentation": {}
+    },
+    {
+        "label": "recuperer_noms_images",
+        "kind": 2,
+        "importPath": "manual_correction",
+        "description": "manual_correction",
+        "peekOfCode": "def recuperer_noms_images(input_directory):\n    image_names = []  # Liste pour stocker les noms des images\n    # Utiliser os.walk pour parcourir les sous-répertoires\n    for _, _, files in os.walk(input_directory):\n        for file in files:\n            if file.lower().endswith(\n                (\".png\", \".jpg\", \".jpeg\")\n            ):  # Vérifier les extensions d'image\n                image_path = os.path.join(file)  # Chemin complet du fichier\n                image_names.append(",
+        "detail": "manual_correction",
+        "documentation": {}
+    },
+    {
+        "label": "on_tab",
+        "kind": 2,
+        "importPath": "manual_correction",
+        "description": "manual_correction",
+        "peekOfCode": "def on_tab(event):\n    event.widget.tk_focusNext().focus()  # Passe le focus au widget suivant\n    return \"break\"  # Empêche l'insertion d'une tabulation dans le widget\nindex_image = -1\ndef ouvrir_fenetre_par_lots(textes_traductions, batch_size=5):\n    corrections = {}  # Dictionnaire pour stocker les corrections\n    current_index = 0  # Index actuel pour suivre le lot de traductions affiché\n    total_texts = len(textes_traductions)  # Nombre total de textes à traduire\n    def submit_corrections(entries, traductions_proposees):\n        nonlocal current_index",
+        "detail": "manual_correction",
+        "documentation": {}
+    },
+    {
+        "label": "ouvrir_fenetre_par_lots",
+        "kind": 2,
+        "importPath": "manual_correction",
+        "description": "manual_correction",
+        "peekOfCode": "def ouvrir_fenetre_par_lots(textes_traductions, batch_size=5):\n    corrections = {}  # Dictionnaire pour stocker les corrections\n    current_index = 0  # Index actuel pour suivre le lot de traductions affiché\n    total_texts = len(textes_traductions)  # Nombre total de textes à traduire\n    def submit_corrections(entries, traductions_proposees):\n        nonlocal current_index\n        global index_image\n        for index, (texte_extrait, _) in enumerate(\n            textes_traductions[current_index : current_index + batch_size]\n        ):",
+        "detail": "manual_correction",
+        "documentation": {}
+    },
+    {
+        "label": "manual_adjustments",
+        "kind": 2,
+        "importPath": "manual_correction",
+        "description": "manual_correction",
+        "peekOfCode": "def manual_adjustments(text_and_boxes, batch_size=5):\n    # Traduire chaque texte qui contient des caractères japonais\n    textes_traductions = [\n        (text, translate_text(text.strip()))\n        for text, _ in text_and_boxes\n        if contains_japanese(text)\n    ]\n    corrections = ouvrir_fenetre_par_lots(\n        textes_traductions, batch_size=batch_size\n    )  # Ouvre la fenêtre de corrections",
+        "detail": "manual_correction",
+        "documentation": {}
+    },
+    {
+        "label": "process_images_with_adjustments",
+        "kind": 2,
+        "importPath": "manual_correction",
+        "description": "manual_correction",
+        "peekOfCode": "def process_images_with_adjustments(\n    input_image_path, output_image_path, adjusted_translations\n):\n    # Vérifie si le chemin du fichier d'entrée est valide\n    if not os.path.isfile(input_image_path):\n        raise FileNotFoundError(f\"The file {input_image_path} does not exist.\")\n    # Ouvre l'image d'entrée et la convertit en mode RGB\n    image = Image.open(input_image_path).convert(\"RGB\")\n    # Efface le texte aux emplacements spécifiés dans adjusted_translations\n    image = erase_text(image, [box for _, box, _ in adjusted_translations])",
+        "detail": "manual_correction",
+        "documentation": {}
+    },
+    {
+        "label": "CORRECTIONS_FILE",
+        "kind": 5,
+        "importPath": "manual_correction",
+        "description": "manual_correction",
+        "peekOfCode": "CORRECTIONS_FILE = \"corrections.json\"\n# Charger les corrections existantes\ndef load_corrections():\n    if os.path.exists(CORRECTIONS_FILE):\n        with open(CORRECTIONS_FILE, \"r\", encoding=\"utf-8\") as f:\n            return json.load(f)  # Retourne le contenu du fichier JSON\n    return {}  # Retourne un dictionnaire vide si le fichier n'existe pas\n# Sauvegarder les corrections dans un fichier JSON sans écraser les anciennes\ndef save_corrections(new_corrections):\n    # Charger les anciennes corrections",
+        "detail": "manual_correction",
+        "documentation": {}
+    },
+    {
+        "label": "corrections_dict",
+        "kind": 5,
+        "importPath": "manual_correction",
+        "description": "manual_correction",
+        "peekOfCode": "corrections_dict = load_corrections()\n# Fonction pour vérifier si le texte contient des caractères japonais\ndef contains_japanese(text):\n    return bool(\n        re.search(r\"[\\u3040-\\u309F\\u30A0-\\u30FF\\u4E00-\\u9FFF]\", text)\n    )  # Retourne True si des caractères japonais sont trouvés\n# Fonction pour extraire le texte et les zones de texte d'une image\ndef extract_text_from_image(image_path):\n    reader = easyocr.Reader(\n        [\"ja\", \"en\"]",
+        "detail": "manual_correction",
+        "documentation": {}
+    },
+    {
+        "label": "index_image",
+        "kind": 5,
+        "importPath": "manual_correction",
+        "description": "manual_correction",
+        "peekOfCode": "index_image = -1\ndef ouvrir_fenetre_par_lots(textes_traductions, batch_size=5):\n    corrections = {}  # Dictionnaire pour stocker les corrections\n    current_index = 0  # Index actuel pour suivre le lot de traductions affiché\n    total_texts = len(textes_traductions)  # Nombre total de textes à traduire\n    def submit_corrections(entries, traductions_proposees):\n        nonlocal current_index\n        global index_image\n        for index, (texte_extrait, _) in enumerate(\n            textes_traductions[current_index : current_index + batch_size]",
+        "detail": "manual_correction",
+        "documentation": {}
+    },
+    {
+        "label": "input_directory",
+        "kind": 5,
+        "importPath": "manual_correction",
+        "description": "manual_correction",
+        "peekOfCode": "input_directory = Path(\"data_jp\")  # Dossier contenant les images en japonais\noutput_directory = Path(\"data_en\")  # Dossier pour les images traduites en anglais\n# S'assurer que le répertoire de sortie existe, le crée si nécessaire\noutput_directory.mkdir(exist_ok=True)\n# Traiter chaque fichier image dans le répertoire d'entrée\nfor subdir, _, files in os.walk(\n    input_directory\n):  # Parcourt les sous-dossiers du dossier d'entrée\n    for file in files:\n        # Vérifie si le fichier est une image (png, jpg, jpeg)",
+        "detail": "manual_correction",
+        "documentation": {}
+    },
+    {
+        "label": "output_directory",
+        "kind": 5,
+        "importPath": "manual_correction",
+        "description": "manual_correction",
+        "peekOfCode": "output_directory = Path(\"data_en\")  # Dossier pour les images traduites en anglais\n# S'assurer que le répertoire de sortie existe, le crée si nécessaire\noutput_directory.mkdir(exist_ok=True)\n# Traiter chaque fichier image dans le répertoire d'entrée\nfor subdir, _, files in os.walk(\n    input_directory\n):  # Parcourt les sous-dossiers du dossier d'entrée\n    for file in files:\n        # Vérifie si le fichier est une image (png, jpg, jpeg)\n        if file.lower().endswith((\".png\", \".jpg\", \".jpeg\")):",
+        "detail": "manual_correction",
+        "documentation": {}
+    },
+    {
+        "label": "load_corrections",
+        "kind": 2,
+        "importPath": "manual_remove",
+        "description": "manual_remove",
+        "peekOfCode": "def load_corrections():\n    if os.path.exists(CORRECTIONS_FILE):\n        with open(CORRECTIONS_FILE, \"r\", encoding=\"utf-8\") as f:\n            return json.load(f)  # Retourne le contenu du fichier JSON\n    return {}  # Retourne un dictionnaire vide si le fichier n'existe pas\n# Sauvegarder les corrections dans un fichier JSON sans écraser les anciennes\ndef save_corrections(new_corrections):\n    # Charger les anciennes corrections\n    corrections = load_corrections()\n    # Ajouter/mettre à jour avec les nouvelles corrections",
+        "detail": "manual_remove",
+        "documentation": {}
+    },
+    {
+        "label": "save_corrections",
+        "kind": 2,
+        "importPath": "manual_remove",
+        "description": "manual_remove",
+        "peekOfCode": "def save_corrections(new_corrections):\n    # Charger les anciennes corrections\n    corrections = load_corrections()\n    # Ajouter/mettre à jour avec les nouvelles corrections\n    corrections.update(new_corrections)\n    # Sauvegarder le tout dans le fichier\n    with open(CORRECTIONS_FILE, \"w\", encoding=\"utf-8\") as f:\n        json.dump(corrections, f, ensure_ascii=False, indent=4)\n# Charger les corrections au début du programme\ncorrections_dict = load_corrections()",
+        "detail": "manual_remove",
+        "documentation": {}
+    },
+    {
+        "label": "contains_japanese",
+        "kind": 2,
+        "importPath": "manual_remove",
+        "description": "manual_remove",
+        "peekOfCode": "def contains_japanese(text):\n    return bool(\n        re.search(r\"[\\u3040-\\u309F\\u30A0-\\u30FF\\u4E00-\\u9FFF]\", text)\n    )  # Retourne True si des caractères japonais sont trouvés\n# Fonction pour extraire le texte et les zones de texte d'une image\ndef extract_text_from_image(image_path):\n    reader = easyocr.Reader(\n        [\"ja\", \"en\"]\n    )  # Initialiser le lecteur EasyOCR pour le japonais et l'anglais\n    image = Image.open(image_path).convert(",
+        "detail": "manual_remove",
+        "documentation": {}
+    },
+    {
+        "label": "extract_text_from_image",
+        "kind": 2,
+        "importPath": "manual_remove",
+        "description": "manual_remove",
+        "peekOfCode": "def extract_text_from_image(image_path):\n    reader = easyocr.Reader(\n        [\"ja\", \"en\"]\n    )  # Initialiser le lecteur EasyOCR pour le japonais et l'anglais\n    image = Image.open(image_path).convert(\n        \"RGB\"\n    )  # Ouvrir l'image et la convertir en RGB\n    image_np = np.array(image)  # Convertir l'image en tableau numpy\n    results = reader.readtext(\n        image_np, detail=1, paragraph=False",
+        "detail": "manual_remove",
+        "documentation": {}
+    },
+    {
+        "label": "translate_text",
+        "kind": 2,
+        "importPath": "manual_remove",
+        "description": "manual_remove",
+        "peekOfCode": "def translate_text(text, src_lang=\"ja\", dest_lang=\"en\"):\n    # Si le texte a déjà été corrigé, retourner la traduction corrigée\n    if text in corrections_dict:\n        print(f\"Using learned correction for: {text}\")  # Utiliser la correction apprise\n        return corrections_dict[text]\n    translator = GoogleTranslator(\n        source=src_lang, target=dest_lang\n    )  # Initialiser le traducteur\n    try:\n        return translator.translate(text)  # Traduire le texte",
+        "detail": "manual_remove",
+        "documentation": {}
+    },
+    {
+        "label": "get_background_color",
+        "kind": 2,
+        "importPath": "manual_remove",
+        "description": "manual_remove",
+        "peekOfCode": "def get_background_color(image, box):\n    box = [\n        (int(coord[0]), int(coord[1])) for coord in box\n    ]  # Convertir les coordonnées en entiers\n    x1, y1 = box[0]  # Coin supérieur gauche\n    x2, y2 = box[2]  # Coin inférieur droit\n    extension = 10  # Extension pour le remplissage de couleur\n    x1, y1 = max(0, x1 - extension), max(\n        0, y1 - extension\n    )  # Limiter les coordonnées à l'image",
+        "detail": "manual_remove",
+        "documentation": {}
+    },
+    {
+        "label": "erase_text",
+        "kind": 2,
+        "importPath": "manual_remove",
+        "description": "manual_remove",
+        "peekOfCode": "def erase_text(image, bounding_boxes):\n    draw = ImageDraw.Draw(image)  # Créer un objet de dessin pour l'image\n    for box in bounding_boxes:\n        if isinstance(box, list):\n            box = [tuple(point) for point in box]  # Convertir les coordonnées en tuples\n        bg_color = get_background_color(image, box)  # Obtenir la couleur de fond\n        draw.polygon(box, fill=bg_color)  # Dessiner un polygone avec la couleur de fond\n    return image  # Retourner l'image modifiée\n# Fonction pour ajuster la taille de la police en fonction de la boîte\ndef estimate_font_size(box, text):",
+        "detail": "manual_remove",
+        "documentation": {}
+    },
+    {
+        "label": "estimate_font_size",
+        "kind": 2,
+        "importPath": "manual_remove",
+        "description": "manual_remove",
+        "peekOfCode": "def estimate_font_size(box, text):\n    x1, y1 = box[0]  # Coin supérieur gauche\n    x2, y2 = box[2]  # Coin inférieur droit\n    box_height = y2 - y1  # Calculer la hauteur de la boîte\n    base_font_size = max(\n        int(box_height * 0.8), 8\n    )  # Déterminer la taille de police de base\n    font_path = \"C:/Windows/Fonts/arial.ttf\"  # Chemin vers la police\n    font_size = base_font_size\n    try:",
+        "detail": "manual_remove",
+        "documentation": {}
+    },
+    {
+        "label": "adjust_text_color",
+        "kind": 2,
+        "importPath": "manual_remove",
+        "description": "manual_remove",
+        "peekOfCode": "def adjust_text_color(bg_color):\n    r, g, b = bg_color  # Décomposer la couleur de fond en ses composants RGB\n    if (r * 0.299 + g * 0.587 + b * 0.114) < 128:  # Calculer la luminosité\n        return (255, 255, 255)  # Retourner du blanc si le fond est sombre\n    return (0, 0, 0)  # Retourner du noir sinon\n# Fonction pour ajouter un contour au texte\ndef add_text_outline(draw, text, position, font, color, outline_color, outline_width=2):\n    x, y = position  # Position du texte\n    # Dessiner le contour autour du texte\n    for offset in range(-outline_width, outline_width + 1):",
+        "detail": "manual_remove",
+        "documentation": {}
+    },
+    {
+        "label": "add_text_outline",
+        "kind": 2,
+        "importPath": "manual_remove",
+        "description": "manual_remove",
+        "peekOfCode": "def add_text_outline(draw, text, position, font, color, outline_color, outline_width=2):\n    x, y = position  # Position du texte\n    # Dessiner le contour autour du texte\n    for offset in range(-outline_width, outline_width + 1):\n        draw.text(\n            (x + offset, y), text, font=font, fill=outline_color\n        )  # Dessiner en haut et en bas\n        draw.text(\n            (x, y + offset), text, font=font, fill=outline_color\n        )  # Dessiner à gauche et à droite",
+        "detail": "manual_remove",
+        "documentation": {}
+    },
+    {
+        "label": "recuperer_noms_images",
+        "kind": 2,
+        "importPath": "manual_remove",
+        "description": "manual_remove",
+        "peekOfCode": "def recuperer_noms_images(input_directory):\n    image_names = []  # Liste pour stocker les noms des images\n    # Utiliser os.walk pour parcourir les sous-répertoires\n    for _, _, files in os.walk(input_directory):\n        for file in files:\n            if file.lower().endswith(\n                (\".png\", \".jpg\", \".jpeg\")\n            ):  # Vérifier les extensions d'image\n                image_path = os.path.join(file)  # Chemin complet du fichier\n                image_names.append(",
+        "detail": "manual_remove",
+        "documentation": {}
+    },
+    {
+        "label": "on_tab",
+        "kind": 2,
+        "importPath": "manual_remove",
+        "description": "manual_remove",
+        "peekOfCode": "def on_tab(event):\n    event.widget.tk_focusNext().focus()  # Passe le focus au widget suivant\n    return \"break\"  # Empêche l'insertion d'une tabulation dans le widget\nindex_image = -1\ndef ouvrir_fenetre_par_lots(textes_traductions, batch_size=5):\n    corrections = {}  # Dictionnaire pour stocker les corrections\n    current_index = 0  # Index actuel pour suivre le lot de traductions affiché\n    total_texts = len(textes_traductions)  # Nombre total de textes à traduire\n    def submit_corrections(entries, traductions_proposees):\n        nonlocal current_index",
+        "detail": "manual_remove",
+        "documentation": {}
+    },
+    {
+        "label": "ouvrir_fenetre_par_lots",
+        "kind": 2,
+        "importPath": "manual_remove",
+        "description": "manual_remove",
+        "peekOfCode": "def ouvrir_fenetre_par_lots(textes_traductions, batch_size=5):\n    corrections = {}  # Dictionnaire pour stocker les corrections\n    current_index = 0  # Index actuel pour suivre le lot de traductions affiché\n    total_texts = len(textes_traductions)  # Nombre total de textes à traduire\n    def submit_corrections(entries, traductions_proposees):\n        nonlocal current_index\n        global index_image\n        for index, (texte_extrait, _) in enumerate(\n            textes_traductions[current_index : current_index + batch_size]\n        ):",
+        "detail": "manual_remove",
+        "documentation": {}
+    },
+    {
+        "label": "manual_adjustments",
+        "kind": 2,
+        "importPath": "manual_remove",
+        "description": "manual_remove",
+        "peekOfCode": "def manual_adjustments(text_and_boxes, batch_size=5):\n    # Traduire chaque texte qui contient des caractères japonais\n    textes_traductions = [\n        (text, translate_text(text.strip()))\n        for text, _ in text_and_boxes\n        if contains_japanese(text)\n    ]\n    corrections = ouvrir_fenetre_par_lots(\n        textes_traductions, batch_size=batch_size\n    )  # Ouvre la fenêtre de corrections",
+        "detail": "manual_remove",
+        "documentation": {}
+    },
+    {
+        "label": "process_images_with_adjustments",
+        "kind": 2,
+        "importPath": "manual_remove",
+        "description": "manual_remove",
+        "peekOfCode": "def process_images_with_adjustments(\n    input_image_path, output_image_path, adjusted_translations\n):\n    # Vérifie si le chemin du fichier d'entrée est valide\n    if not os.path.isfile(input_image_path):\n        raise FileNotFoundError(f\"The file {input_image_path} does not exist.\")\n    # Ouvre l'image d'entrée et la convertit en mode RGB\n    image = Image.open(input_image_path).convert(\"RGB\")\n    # Efface le texte aux emplacements spécifiés dans adjusted_translations\n    image = erase_text(image, [box for _, box, _ in adjusted_translations])",
+        "detail": "manual_remove",
+        "documentation": {}
+    },
+    {
+        "label": "CORRECTIONS_FILE",
+        "kind": 5,
+        "importPath": "manual_remove",
+        "description": "manual_remove",
+        "peekOfCode": "CORRECTIONS_FILE = \"corrections.json\"\n# Charger les corrections existantes\ndef load_corrections():\n    if os.path.exists(CORRECTIONS_FILE):\n        with open(CORRECTIONS_FILE, \"r\", encoding=\"utf-8\") as f:\n            return json.load(f)  # Retourne le contenu du fichier JSON\n    return {}  # Retourne un dictionnaire vide si le fichier n'existe pas\n# Sauvegarder les corrections dans un fichier JSON sans écraser les anciennes\ndef save_corrections(new_corrections):\n    # Charger les anciennes corrections",
+        "detail": "manual_remove",
+        "documentation": {}
+    },
+    {
+        "label": "corrections_dict",
+        "kind": 5,
+        "importPath": "manual_remove",
+        "description": "manual_remove",
+        "peekOfCode": "corrections_dict = load_corrections()\n# Fonction pour vérifier si le texte contient des caractères japonais\ndef contains_japanese(text):\n    return bool(\n        re.search(r\"[\\u3040-\\u309F\\u30A0-\\u30FF\\u4E00-\\u9FFF]\", text)\n    )  # Retourne True si des caractères japonais sont trouvés\n# Fonction pour extraire le texte et les zones de texte d'une image\ndef extract_text_from_image(image_path):\n    reader = easyocr.Reader(\n        [\"ja\", \"en\"]",
+        "detail": "manual_remove",
+        "documentation": {}
+    },
+    {
+        "label": "index_image",
+        "kind": 5,
+        "importPath": "manual_remove",
+        "description": "manual_remove",
+        "peekOfCode": "index_image = -1\ndef ouvrir_fenetre_par_lots(textes_traductions, batch_size=5):\n    corrections = {}  # Dictionnaire pour stocker les corrections\n    current_index = 0  # Index actuel pour suivre le lot de traductions affiché\n    total_texts = len(textes_traductions)  # Nombre total de textes à traduire\n    def submit_corrections(entries, traductions_proposees):\n        nonlocal current_index\n        global index_image\n        for index, (texte_extrait, _) in enumerate(\n            textes_traductions[current_index : current_index + batch_size]",
+        "detail": "manual_remove",
+        "documentation": {}
+    },
+    {
+        "label": "input_directory",
+        "kind": 5,
+        "importPath": "manual_remove",
+        "description": "manual_remove",
+        "peekOfCode": "input_directory = Path(\"data_jp\")  # Dossier contenant les images en japonais\noutput_directory = Path(\"data_en\")  # Dossier pour les images traduites en anglais\n# S'assurer que le répertoire de sortie existe, le crée si nécessaire\noutput_directory.mkdir(exist_ok=True)\n# Traiter chaque fichier image dans le répertoire d'entrée\nfor subdir, _, files in os.walk(\n    input_directory\n):  # Parcourt les sous-dossiers du dossier d'entrée\n    for file in files:\n        # Vérifie si le fichier est une image (png, jpg, jpeg)",
+        "detail": "manual_remove",
+        "documentation": {}
+    },
+    {
+        "label": "output_directory",
+        "kind": 5,
+        "importPath": "manual_remove",
+        "description": "manual_remove",
+        "peekOfCode": "output_directory = Path(\"data_en\")  # Dossier pour les images traduites en anglais\n# S'assurer que le répertoire de sortie existe, le crée si nécessaire\noutput_directory.mkdir(exist_ok=True)\n# Traiter chaque fichier image dans le répertoire d'entrée\nfor subdir, _, files in os.walk(\n    input_directory\n):  # Parcourt les sous-dossiers du dossier d'entrée\n    for file in files:\n        # Vérifie si le fichier est une image (png, jpg, jpeg)\n        if file.lower().endswith((\".png\", \".jpg\", \".jpeg\")):",
+        "detail": "manual_remove",
+        "documentation": {}
+    }
+]
