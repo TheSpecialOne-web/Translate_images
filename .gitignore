@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+.venv/
+*env/
+
+# Environments
+.env
+.env.*
+!.env.example
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data folders (gitignored to protect privacy)
+data_en/
+data_jp/
+data/
+samples/
+*.jpg
+*.JPG
+*.jpeg
+*.png
+*.gif
+!docs/*.png
+
+# OCR / correction artifacts (may contain personal data)
+corrections.json
+*.corrections.json
+
+# Logs
+*.log
